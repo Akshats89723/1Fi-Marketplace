@@ -157,7 +157,7 @@ onefi-marketplace/
 
 ---
 
-## ?? Submitted By
+##  Submitted By
 
 **Akshat Sanghvi**
 SDE Intern Candidate — 1Fi
