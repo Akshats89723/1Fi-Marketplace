@@ -12,21 +12,21 @@ The Shop page contains three tabs:
 
 | Tab | Status | Description |
 |-----|--------|-------------|
-| ?? Top Brands | Placeholder | Blank page (as per assignment) |
-| ?? Nearby Stores | Placeholder | Blank page (as per assignment) |
-| ?? 1Fi Marketplace | ? Fully Implemented | Complete e-commerce experience |
+|  Top Brands | Placeholder | Blank page (as per assignment) |
+|  Nearby Stores | Placeholder | Blank page (as per assignment) |
+|  1Fi Marketplace | ? Fully Implemented | Complete e-commerce experience |
 
 ---
 
-## ? Features Implemented
+##  Features Implemented
 
-### ??? 1Fi Marketplace
+###  1Fi Marketplace
 - **Product Grid** — Browse products across categories: Smartphones, Laptops, Audio & Wearables, Smart Home
 - **Category Filter Bar** — Filter products by category with animated indicator
 - **Product Cards** — Show product image, brand, name, rating, price, discount %, and EMI starting price
 - **Click to Open** — Clicking any product card opens the full Product Detail Modal
 
-### ?? Product Detail Modal
+###  Product Detail Modal
 - **Image Gallery** — Side thumbnail strip + main product image with hover zoom
 - **Color-aware Image Switching** — Selecting a color variant updates the product image instantly (tinted background matches selected color)
 - **Color Variant Selector** — Visual card-style selector with image preview, color swatch, and checkmark for selected state
@@ -36,17 +36,17 @@ The Shop page contains three tabs:
 - **Active Selection Summary** — Real-time summary of selected configuration
 - **1Fi EMI Plan Selector** — Choose from 3/6/9/12/18/24-month 0% No-Cost EMI plans
 
-### ?? 1Fi EMI Checkout Flow (3-Step)
+###  1Fi EMI Checkout Flow (3-Step)
 - **Step 1 — Review Order** — Shows product, selected configuration, and chosen EMI plan
 - **Step 2 — Mutual Fund Pledge** — Explains 0% interest via MF collateral pledging (1Fi's unique model)
 - **Step 3 — Confirmation** — Order success with animated confirmation
 
-### ?? Header & Credit Limit
+###  Header & Credit Limit
 - **Credit Limit Modal** — Shows available 1Fi credit limit (?2,50,000) backed by Mutual Fund portfolio
 - **Notifications Dropdown** — Recent activity alerts
 - **User Profile Modal** — User details (Alex Morgan)
 
-### ?? Product Catalogue (8 Products)
+###  Product Catalogue (8 Products)
 - iQOO Z11 5G
 - Apple iPhone 16 Pro
 - Samsung Galaxy S25 Ultra 5G
@@ -59,7 +59,7 @@ The Shop page contains three tabs:
 
 ---
 
-## ??? Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |-----------|---------|
@@ -72,7 +72,7 @@ The Shop page contains three tabs:
 
 ---
 
-## ?? Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js v18 or above
@@ -104,7 +104,7 @@ npm run build
 
 ---
 
-## ?? Project Structure
+##  Project Structure
 
 ```
 onefi-marketplace/
@@ -141,7 +141,7 @@ onefi-marketplace/
 
 ---
 
-## ?? Key Design Decisions
+##  Key Design Decisions
 
 1. **0% No-Cost EMI via Mutual Fund Pledge** — Reflects 1Fi'\''s unique product model where the user pledges their MF portfolio as collateral instead of paying interest.
 2. **Color Variant Image Switching** — Each color variant has its own product image. Selecting a color instantly swaps the main image, with the image container tinted to match the color — similar to Amazon/Flipkart UX.
@@ -151,7 +151,7 @@ onefi-marketplace/
 
 ---
 
-## ?? Screenshots
+##  Screenshots
 
 > Run `npm run dev` and open http://localhost:5173 to see the live app.
 
