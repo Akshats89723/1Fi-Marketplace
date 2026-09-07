@@ -159,6 +159,6 @@ onefi-marketplace/
 
 ## ?? Submitted By
 
-**Akshat Sharma**
+**Akshat Sanghvi**
 SDE Intern Candidate — 1Fi
 Submission Date: 8th September 2026
